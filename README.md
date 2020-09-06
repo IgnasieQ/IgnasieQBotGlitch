@@ -1,0 +1,2 @@
+# IgnasieQBotGlitch
+ Discord IgnasieQ Bot
